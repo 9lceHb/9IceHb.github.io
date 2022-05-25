@@ -16,10 +16,7 @@ body {
 }
 
 .card-photo {
-    background: url("../img/me1.JPG");
     display: block;
-    width: 300px;
-    height: 400px;
     margin:  auto;
     border-radius: 40%;
 }
