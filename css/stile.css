@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background: url("../img/pattern.png");
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.card {
+    padding: 20px;
+    width: 400px;
+    margin: 30px auto;
+    background-color: #1b25611c;
+    box-shadow: 0 10px 20px #229992;
+    border-radius: 10px;
+}
+
+.card-photo {
+    display: block;
+    width: 300px;
+    height: 400px;
+    margin:  auto;
+    border-radius: 40%;
+}
+
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color: #42a37c;
+}
+.card-title2 {
+    font-size: 20px;
+    text-align: left;
+    color: #42a37c;
+}
+
+.summary-text {
+    font-size: 14px;
+}
+
+.card-subtitle {
+    font-size: 18px;
+    color: #a96821;
+}
+
+.card-list {
+    padding-left: 0;
+    list-style-position: inside;
+    font-size: 14px;
+}
